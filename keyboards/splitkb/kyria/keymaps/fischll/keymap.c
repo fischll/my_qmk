@@ -17,8 +17,8 @@
 
 
 enum layers {
-    _COLEMAK_DH = 0,
-    _QWERTY,
+    _QWERTY = 0,
+    _COLEMAK_DH,
     _NAV,
     _SYM,
     _FUNCTION,
